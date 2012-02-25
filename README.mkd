@@ -1,21 +1,75 @@
-Solarized - Notedpad2 settings
-==============================
+---
+Title: Solarized Colorscheme for Notepad2
+Description: Precision colors for machines and people
+Author: Ethan Schoonover / Dennis Wallace
+Colors: light yellow
+Created: 2012 Feb 25
 
-### [See official homepage for full content](http://ethanschoonover.com/solarized)
+---
 
-Installation (Notedpad2)
-------------------------
+Solarized Colorscheme for Notepad2
+==================================
 
-Open the "Customize Schemes" window (Control-F12)
-Import the `.ini` file for the scheme versino you want (light or dark)
+Original Color Scheme Developed by Ethan Schoonover <es@ethanschoonover.com>
+Initial Port of Color Scheme to Notepad2 by Dennis Wallace <code@achbed.org>
 
-Credit
-------
+Visit the [Solarized homepage]
+------------------------------
 
-Based off the PuTTY color settings in this repository.
+See the [Solarized homepage] for screenshots, 
+details and colorscheme versions for Vim, Mutt, popular terminal emulators and 
+other applications.
 
+Downloads
+---------
+
+If you have come across this colorscheme via the [Notepad2-only repository] on 
+github, see the link above to the Solarized homepage or visit the main 
+[Solarized repository].
+
+[Solarized homepage]:   http://ethanschoonover.com/solarized
+[Solarized repository]: https://github.com/altercation/solarized
+[Notepad2-only repository]:  https://github.com/achbed/notepad2-colors-solarized
+
+About
+-----
+
+The default color scheme is "light", with the 2nd being "dark".  To shift 
+between the two, use (Shift-F12).
+
+Installation (Notepad2)
+-----------------------
+
+1. Open the "Customize Schemes" window (Control-F12)
+2. Import the `.ini` file
+3. Save your settings (F7)
 
 To-Do
 -----
 
-This only includes changes from the default for "Default Text", "Web Source Code", and "JavaScript".  Other sections will need to be updated and contributed.
+This only includes changes from the default for "Default Text", "Web Source 
+Code", and "JavaScript".  Other sections will need to be updated and 
+contributed.
+
+License
+-------
+Original Copyright (c) 2011 Ethan Schoonover
+Alterations Copyright (c) 2012 Dennis Wallace
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
