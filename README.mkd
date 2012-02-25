@@ -1,0 +1,24 @@
+Solarized - Notedpad2 settings
+==============================
+
+### [See official homepage for full content](http://ethanschoonover.com/solarized)
+
+Installation (Notedpad2)
+------------------------
+
+Open the "Customize Schemes" window (Control-F12)
+Import the `.ini` file for the scheme versino you want (light or dark)
+
+Screenshots
+-----------
+
+![Dark scheme](https://github.com/brantb/solarized/raw/putty/putty-colors-solarized/dark.png)  
+*Dark scheme*
+
+![Light scheme](https://github.com/brantb/solarized/raw/putty/putty-colors-solarized/light.png)  
+*Light scheme*
+
+Credit
+------
+
+Based off the PuTTY color settings in this repository.
