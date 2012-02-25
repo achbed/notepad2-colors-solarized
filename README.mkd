@@ -48,8 +48,8 @@ To-Do
 -----
 
 This only includes changes from the default for "Default Text", "Web Source 
-Code", and "JavaScript".  Other sections will need to be updated and 
-contributed.
+Code", "CSS Style Sheets", and "JavaScript".  Other sections will need to be 
+updated and contributed.
 
 License
 -------
